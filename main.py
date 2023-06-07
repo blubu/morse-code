@@ -12,6 +12,17 @@ textbox.setGeometry(150, 250, 150, 20)
 button = QPushButton("Convert", window)
 button.setGeometry(310, 250, 70, 20)
 
+
+def morse_code(entered_text):
+    print(entered_text)
+
+
+def convert_button():
+    morse_code(textbox.text())
+
+
+button.clicked.connect(convert_button)
+
 window.show()
 
 app.exec()
