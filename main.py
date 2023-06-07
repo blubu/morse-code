@@ -23,6 +23,9 @@ textbox.setGeometry(150, 250, 150, 20)
 button = QPushButton("Convert", window)
 button.setGeometry(310, 250, 70, 20)
 
+label = QLabel("", window)
+label.setGeometry(250, 300, 100, 100)
+
 
 def morse_code(entered_text):
     res = ''
@@ -34,7 +37,7 @@ def morse_code(entered_text):
 
 def convert_button():
     res = morse_code(textbox.text())
-    print(res)
+    label.setText(res)
 
 
 button.clicked.connect(convert_button)
