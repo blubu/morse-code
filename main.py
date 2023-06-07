@@ -17,6 +17,11 @@ app = QApplication([])
 window = QMainWindow()
 window.setGeometry(400, 250, 500, 500)
 
+dropdown = QComboBox(window)
+dropdown.setGeometry(150, 230, 100, 20)
+dropdown.addItem('-- Text to Morse --')
+dropdown.addItem('-- Morse to Text --')
+
 textbox = QLineEdit(window)
 textbox.setGeometry(150, 250, 150, 20)
 
