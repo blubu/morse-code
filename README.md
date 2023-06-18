@@ -1,4 +1,6 @@
 # Morse Code Converter
+![Image](./images/morse_code_converter)
+<sub>Text<sub>
 The Morse Code Converter is a Python application with an interactive GUI built using PyQt5. It allows users to convert text to Morse code and vice versa, with the option to copy the generated outputs to the clipboard.
 ## Features
 - Text to morse code conversion
@@ -6,11 +8,11 @@ The Morse Code Converter is a Python application with an interactive GUI built u
 - Copy generated outputs to the clipboard
 ## Installation
 To run the Morse Code Converter locally, follow these steps:
-1. Clone the repository:
+1. Clone the repository:<br>
    ```git clone [repository_url]```
-3. Install the required dependencies:
+3. Install the required dependencies:<br>
    ```pip install -r requirements.txt```
-5. Run the application:
+5. Run the application:<br>
    ```python main.py```
 ## Usage
 1. Launch the application.
@@ -18,7 +20,7 @@ To run the Morse Code Converter locally, follow these steps:
 3. Click the Convert button to generate the converted output.
 4. To copy the output to the clipboard, click the Copy button.
 ## Contributing
-If you would like to contribute to this project, please read the Contributions Guidelines for more information. The guidelines contain areas where improvements are sought, as well as additional features that could be implemented. Feel free to add your own ideas or suggest improvements.
+If you would like to contribute to this project, please read the Contributions Guidelines for more information. The guidelines contain areas where improvements are sought, as well as additional features that could be implemented. Feel free to add your own ideas or suggest improvements.<br>
 For detailed instructions on recreating this project, please refer to the steps.md file.
 ## Contact
 If you have any questions, suggestions or need further assistance, feel free to reach out to me at vibhu13github@gmail.com.
