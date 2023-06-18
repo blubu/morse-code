@@ -30,7 +30,8 @@ Some areas where contributions are particularly welcome include:
 - Handling and representing huge texts on the screen effectively, ensuring optimal performance and readability.
 - Implementing audio playback for Morse code, allowing users to hear the translated code.
 - Adding a scroll bar for the output area to enable easy navigation and viewing of large amounts of text.
-- Conversion to binary code.<br>
+- Conversion to binary code.
+
 If you have any other ideas or suggestions for improvements, please feel free to share them. 
 We value your input and are open to considering new directions and features for the project.
 ## Contribution Guidelines
