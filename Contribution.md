@@ -22,14 +22,6 @@ To get started with contributing, follow these steps:
 - Push your changes to your forked repository.<br>
 ```git push origin feature/your-feature```
 - Open a pull request on the original repository, clearly describing your changes and their purpose.
-## Contribution Guidelines
-To ensure a smooth collaboration, please follow these guidelines:
-- Ensure that your code follows the existing code style and conventions.
-- Maintain a clear and concise commit history with descriptive commit messages.
-- Provide relevant documentation updates, if applicable.
-- Write unit tests whenever possible to cover new functionality or bug fixes.
-- Be respectful and considerate towards other contributors and maintainers.
-- If you're unsure about something or need assistance, don't hesitate to ask for help.
 ## Areas for Improvement
 We are actively seeking contributions to improve the Morse Code Converter project. 
 Some areas where contributions are particularly welcome include:
@@ -40,3 +32,11 @@ Some areas where contributions are particularly welcome include:
 - Adding a scroll bar for the output area to enable easy navigation and viewing of large amounts of text.
 If you have any other ideas or suggestions for improvements, please feel free to share them. 
 We value your input and are open to considering new directions and features for the project.
+## Contribution Guidelines
+To ensure a smooth collaboration, please follow these guidelines:
+- Ensure that your code follows the existing code style and conventions.
+- Maintain a clear and concise commit history with descriptive commit messages.
+- Provide relevant documentation updates, if applicable.
+- Write unit tests whenever possible to cover new functionality or bug fixes.
+- Be respectful and considerate towards other contributors and maintainers.
+- If you're unsure about something or need assistance, don't hesitate to ask for help.
