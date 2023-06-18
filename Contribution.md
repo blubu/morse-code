@@ -13,13 +13,17 @@ To get started with contributing, follow these steps:
 - Fork the repository on GitHub.
 - Clone your forked repository to your local machine.<br>
 ```git clone [repository_url]```
-- Create a new branch for your contribution.
+- Create a new branch for your contribution.<br>
+  ```git checkout -b feature/your-feature```
 - Make your desired changes and improvements to the codebase.
 - Test your changes thoroughly to ensure they are working as expected.
-- Commit your changes with descriptive commit messages.
-- Push your changes to your forked repository.
+- Commit your changes with descriptive commit messages.<br>
+  ```git commit -m "Add new feature: Your feature description"```
+- Push your changes to your forked repository.<br>
+```git push origin feature/your-feature```
 - Open a pull request on the original repository, clearly describing your changes and their purpose.
 ## Contribution Guidelines
+To ensure a smooth collaboration, please follow these guidelines:
 - Ensure that your code follows the existing code style and conventions.
 - Maintain a clear and concise commit history with descriptive commit messages.
 - Provide relevant documentation updates, if applicable.
