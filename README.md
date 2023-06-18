@@ -7,9 +7,9 @@ The Morse Code Converter is a Python application with an interactive GUI built u
 - Copy generated outputs to the clipboard
 ## Screenshots
 ![Image](./images/text_tomorse.png)<br>
-***Converting text to morse***<br><br>
+*Converting text to morse*<br><br>
 ![Image](./images/morse_totext.png)<br>
-***Converting morse to text***
+*Converting morse to text*
 ## Installation
 To run the Morse Code Converter locally, follow these steps:
 1. Clone the repository:<br>
