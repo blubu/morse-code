@@ -12,6 +12,7 @@ Choose a GUI library that suits your preferences and requirements. Some popular 
 - wxPython
 - Kivy
 - PySide2
+
 Install the chosen GUI library using the library-specific installation instructions.
 ## Steps
 **1. Create a Window:**
