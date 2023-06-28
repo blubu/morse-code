@@ -19,7 +19,7 @@ To run the Morse Code Converter locally, follow these steps:
 5. Run the application:<br>
    ```python main.py```
 ## Usage
-1. Launch the application.
+1. Launch the application by running the main script.
 2. Enter the text or morse code you want to convert in the respective input field.
 3. Click the Convert button to generate the converted output.
 4. To copy the output to the clipboard, click the Copy button.
